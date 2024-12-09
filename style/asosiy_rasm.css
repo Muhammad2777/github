@@ -1,0 +1,22 @@
+.asosiy_rasm {
+    background: url('../images/Rectangle\ 3\ \(1\).png') no-repeat center center/cover;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .asosiy_rasm-content{
+    border: 2px solid white;
+  }
+  .asosiy_rasm-content h2 {
+    text-decoration: underline;
+    font-size: 36px;
+    margin: 0;
+    margin-bottom: 20px;
+  
+  }
+  
+  .asosiy_rasm-content p {
+    font-size: 18px;
+  }
